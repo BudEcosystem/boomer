@@ -93,12 +93,12 @@ Retrieval augmentation
 Inference at the edge
 Language modeling use cases
 
-###Final thought on Boomer!
+### Final thought on Boomer!
 
 This isn't the end. It's just the beginning of a journey towards creating more advanced, more efficient, and more accessible language models. We invite you to join us on this exciting journey. 
 
 
-###Aknowledgements
+### Aknowledgements
 
 We'd like to thank the open-source community and the researchers whose foundational work laid the path for BOOMER. Special shoutout to our dedicated team who have worked relentlessly to curate the dataset and fine-tune the model to perfection.
 
