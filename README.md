@@ -83,9 +83,9 @@ The model is trained of 4 A100 80GB for approximately 250hrs.
 
 We have evaluated the pre-trained model on few of the benchmarks
 
-| Model Name | ARC | MMLU | Human Eval | Hellaswag |
-|:----------:|:--------:|:----:|:----------:|:---------:|
-| Boomer1B   | 22.18     | 24.55| 3.66      | 28.82     |
+| Model Name | ARC | MMLU | Human Eval | Hellaswag | BBH   | DROP  | GSM8K   |
+|:----------:|:--------:|:----:|:----------:|:---------:|:-----: |:-----:|:----:|
+| Boomer1B   | 22.35     | 25.92| 6.1      | 31.66     | 28.65   | 6.13   | 1.5 |
 
 ### Why use BOOMER? 
 
