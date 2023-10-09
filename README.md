@@ -8,7 +8,7 @@
 
 ## Introduction 🎉
 
-We are open-sourcing one of our early experiments of pretraining with custom architecture and datasets. This 1B parameter model is pre-trained from scratch using a custom-curated dataset of 30B tokens. The model's architecture experiments contain the addition of flash attention and a higher intermediate dimension of the MLP layer. The dataset is a combination of wiki, stories, arxiv, math and code. The model is available on huggingface [Boomer1B](https://huggingface.co/budecosystem/boomer-1b)
+We are open-sourcing one of our early experiments of pretraining with custom architecture and datasets. This 1.1B parameter model is pre-trained from scratch using a custom-curated dataset of 41B tokens. The model's architecture experiments contain the addition of flash attention and a higher intermediate dimension of the MLP layer. The dataset is a combination of wiki, stories, arxiv, math and code. The model is available on huggingface [Boomer1B](https://huggingface.co/budecosystem/boomer-1b)
 
 
 
@@ -86,5 +86,20 @@ We have evaluated the pre-trained model on few of the benchmarks
 | Model Name | ARC | MMLU | Human Eval | Hellaswag |
 |:----------:|:--------:|:----:|:----------:|:---------:|
 | Boomer1B   | 22.18     | 24.55| 3.66      | 28.82     |
+
+### Why use BOOMER? 
+
+Retrieval augmentation
+Inference at the edge
+Language modeling use cases
+
+#Final thought on Boomer!
+
+This isn't the end. It's just the beginning of a journey towards creating more advanced, more efficient, and more accessible language models. We invite you to join us on this exciting journey. 
+
+
+#Aknowledgements
+
+We'd like to thank the open-source community and the researchers whose foundational work laid the path for BOOMER. Special shoutout to our dedicated team who have worked relentlessly to curate the dataset and fine-tune the model to perfection.
 
 
