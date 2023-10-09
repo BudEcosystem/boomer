@@ -10,7 +10,7 @@
 
 We are open-sourcing one of our early experiments of pretraining with custom architecture and datasets. This 1.1B parameter model is pre-trained from scratch using a custom-curated dataset of 41B tokens. The model's architecture experiments contain the addition of flash attention and a higher intermediate dimension of the MLP layer. The dataset is a combination of wiki, stories, arxiv, math and code. The model is available on huggingface [Boomer1B](https://huggingface.co/budecosystem/boomer-1b)
 
-
+<div align="center"><img src="https://github.com/BudEcosystem/boomer/blob/main/assets/boomer-arch.jpg" width=500></div>
 
 ## Getting Started on GitHub 💻
 
